@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "promicro")(type "Legacy")(uri "${KIPRJMOD}/../libraries/ProMicroKiCad/promicro_library/promicro.lib")(options "")(descr ""))
+  (lib (name "model_f_at_locklights_sym")(type "Legacy")(uri "${KIPRJMOD}/../libraries/model_f_at_locklights_sym.lib")(options "")(descr ""))
+  (lib (name "SMDModelF-rescue")(type "Legacy")(uri "${KIPRJMOD}/SMDModelF-rescue.lib")(options "")(descr ""))
+  (lib (name "brain-rescue")(type "Legacy")(uri "${KIPRJMOD}/brain-rescue.lib")(options "")(descr ""))
+)
