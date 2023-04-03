@@ -4,6 +4,8 @@ Combination of purdeaandrei's universal xwhatsit: https://github.com/purdeaandre
 
 and solenoid driver: https://github.com/purdeaandrei/SolenoidDriver
 
-into one PCB
-
+into one PCB.
+ 
+Not compatible with 3178
+ 
 Original licensure holds
